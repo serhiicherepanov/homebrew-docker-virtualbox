@@ -21,7 +21,7 @@ Add this line into
 
 ### Install the docker-virtualbox via Homebrew
 ```bash
-brew tap sergeycherepanov/docker-virtualbox
+brew tap serhiicherepanov/docker-virtualbox
 brew install docker-virtualbox
 ```
 
